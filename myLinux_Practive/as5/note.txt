@@ -1,0 +1,8 @@
+void myinit (it allocAlg)
+void *mymalloc(aize_t size)
+void myfree(void *ptr)
+void myrealloc(void *ptr, size_t size)
+void cleanup()
+double utilization()
+
+http://tharikasblogs.blogspot.com/p/how-to-write-your-own-malloc-and-free.html
