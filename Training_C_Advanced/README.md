@@ -1,1 +1,0 @@
-# Training_C_Advanced
